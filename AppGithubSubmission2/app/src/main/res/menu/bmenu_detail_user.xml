@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bmenu_detail_user_about"
+        android:icon="@drawable/ic_user_fill"
+        android:title="@string/about"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/bmenu_detail_user_followers"
+        android:icon="@drawable/ic_users_fill"
+        android:title="@string/followers"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/bmenu_detail_user_followings"
+        android:icon="@drawable/ic_add_1_fill"
+        android:title="@string/following"
+        app:showAsAction="always" />
+</menu>

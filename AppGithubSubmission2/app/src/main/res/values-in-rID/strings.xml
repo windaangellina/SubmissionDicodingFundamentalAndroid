@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">Tentang</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="search_hint">Masukkan username</string>
+    <string name="welcome_to_github">Selamat datang di GitHub</string>
+    <string name="where_the_world_builds_software">Tempat dunia membangun software</string>
+    <string name="showing_results_for">Menunjukkan hasil untuk</string>
+    <string name="waiting_to_search">Mulai pencarian!</string>
+    <string name="no_results_found">Tidak ada hasil yang ditemukan</string>
+    <string name="x_results_found">hasil ditemukan</string>
+    <string name="encountered_an_error">ditemukan kesalahan</string>
+    <string name="this_user_has_no_followers">Pengguna ini tidak memiliki pengikut</string>
+    <string name="this_user_doesnt_follow_anyone">Pengguna ini tidak mengikuti siapapun</string>
+    <string name="open_at_github">Buka GitHub</string>
+    <string name="repository">Repositori</string>
+    <string name="typeKeyword">Ketikkan kata kunci username</string>
+</resources>

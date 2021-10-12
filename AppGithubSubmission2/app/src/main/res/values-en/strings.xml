@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">About</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="search_hint">Enter username</string>
+    <string name="welcome_to_github">Welcome to GitHub</string>
+    <string name="where_the_world_builds_software">Where the world builds software</string>
+    <string name="showing_results_for">Showing results for</string>
+    <string name="waiting_to_search">Waiting to search!</string>
+    <string name="no_results_found">No results found.</string>
+    <string name="x_results_found">results found</string>
+    <string name="encountered_an_error">encountered an error</string>
+    <string name="this_user_has_no_followers">This user has no followers</string>
+    <string name="this_user_doesnt_follow_anyone">This user hasn\'t followed anyone</string>
+    <string name="open_at_github">Open At GitHub</string>
+    <string name="repository">Repository</string>
+    <string name="typeKeyword">Type username keyword</string>
+</resources>
